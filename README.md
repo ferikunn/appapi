@@ -1,4 +1,4 @@
-# Myid-hash
+# AppApi
 
 ~~(yet)~~ another my.telegram.org scrapper inside Telegram.
 
@@ -19,7 +19,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 ## How To Deploy 
 * With Heroku:
 <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/fvckcat/Myid-hash"><img src="https://telegra.ph/file/807c4b905b339a69e433d.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/fvckcat/AppApi"><img src="https://telegra.ph/file/807c4b905b339a69e433d.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 
@@ -27,7 +27,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 - clone the repository, locally.
 ```sh
-git clone https://github.com/fvckcat/Myid-hash.git
+git clone https://github.com/fvckcat/AppApi.git
 ```
 
 - change the directory.
