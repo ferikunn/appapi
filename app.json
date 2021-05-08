@@ -9,7 +9,7 @@
     "3"
   ],
   "repository": "https://github.com/ferikunn/appapi",
-  "success_url": "https://t.me/xflicks",
+  "success_url": "https://github.com/ferikunn/appapi",
   "website": "https://github.com/ferikunn/appapi",
   "env": {
     "WEBHOOK": {
