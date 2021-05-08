@@ -8,9 +8,9 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/fvckcat/AppApi",
-  "success_url": "https://telegram.dog/BluueBlueSky",
-  "website": "https://github.com/fvckcat/AppApi",
+  "repository": "https://github.com/ferikunn/appapi",
+  "success_url": "https://t.me/xflicks",
+  "website": "https://github.com/ferikunn/appapi",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
