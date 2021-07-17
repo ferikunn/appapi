@@ -1,10 +1,10 @@
 class Translation(object):
     START_TEXT = """Halo Sahabat
-Mau nyari App ID sama Api HASH kah? 🐧
+Mau nyari App ID sama Api HASH kah?
 Masukin nomer Telegram mu disini kawan, pake +62 didepannya.
 
 /start at any stage to re-enter your details"""
-    AFTER_RECVD_CODE_TEXT = """Berhasil Kawan🐧
+    AFTER_RECVD_CODE_TEXT = """Berhasil Kawan
 Kirim kesini kode yang telah dikirim oleh pihak telegramnya!
 
 kode ini hanya digunakan untuk tujuan mendapatkan App Id & Api Hash dari my.telegram.org
